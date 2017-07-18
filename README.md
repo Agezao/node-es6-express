@@ -1,5 +1,5 @@
-#Node - ES6 + Express boilerplate
-##Starting point to new API's. Hopefully helpful for hackatons.
+# Node - ES6 + Express boilerplate
+## Starting point to new API's. Hopefully helpful for hackatons.
 
 ## About this
 Simple API model teared down into smaller, reusable and modular parts via ES6.
