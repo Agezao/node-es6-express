@@ -23,7 +23,7 @@ Simple API model teared down into smaller, reusable and modular parts via ES6.
 * [MongoDb](https://www.mongodb.com/)
 
 ### Running this
-* clone the repo `git clone https://~your.bitbucket.id~@bitbucket.org/fclabs/api-01-app.git`
+* clone the repo `git clone https://github.com/Agezao/node-es6-express.git`
 * cd to project folder ie. `cd c:/dev/my.project/api-01-app`
 * run `[sudo] npm install` (first time users)
 * to just run, run `[sudo] npm start`
